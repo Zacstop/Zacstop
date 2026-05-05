@@ -14,10 +14,10 @@
 <tr><th> Full-Stack Products (Mobile + Backend) </th></tr>
 <tr><td>
 
-| Title                                            | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Link                              |
-| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
-| [SULEGYM — 설레스튜디오](https://sulegym.co.kr/) | ![Expo](https://img.shields.io/badge/Expo-black?style=flat-square&logo=expo) ![React Native](https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socketdotio) ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=kubernetes) | [🔗](https://sulegym.co.kr/)      |
-| [UNION / mirine](https://github.com/Maka2222)    | ![React Native](https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react) ![Expo](https://img.shields.io/badge/Expo-black?style=flat-square&logo=expo) ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-black?style=flat-square&logo=rabbitmq) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)                                                                                                                 | [📑](https://github.com/Maka2222) |
+| Title                                            | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Link                              |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| [SULEGYM — 설레스튜디오](https://sulegym.co.kr/) | ![Expo](https://img.shields.io/badge/Expo-black?style=flat-square&logo=expo) ![React Native](https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socketdotio) | [🔗](https://sulegym.co.kr/)      |
+| [UNION / mirine](https://github.com/Maka2222)    | ![React Native](https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react) ![Expo](https://img.shields.io/badge/Expo-black?style=flat-square&logo=expo) ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-black?style=flat-square&logo=rabbitmq) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)                  | [📑](https://github.com/Maka2222) |
 
 </td></tr>
 <!-- </table> -->
@@ -36,7 +36,7 @@
 </td></tr>
 </table>
 
-### 🛠 Tech Stack
+### Tech Stack
 
 <table align="center">
   <tr>
@@ -92,61 +92,3 @@
     </td>
   </tr>
 </table>
-
-### TECH SKILLS & TOOLS
-
----
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs" alt="Next.js">
-  <img src="https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react" alt="React Native">
-  <img src="https://img.shields.io/badge/Expo-black?style=for-the-badge&logo=expo" alt="Expo">
-  <!-- State/Data -->
-  <img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux" alt="Redux">
-  <img src="https://img.shields.io/badge/TanStack_Query-black?style=for-the-badge&logo=reactquery" alt="TanStack Query">
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs" alt="Node.js">
-  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socketdotio" alt="Socket.io">
-  <img src="https://img.shields.io/badge/gRPC-black?style=for-the-badge&logo=grpc" alt="gRPC">
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis" alt="Redis">
-  <img src="https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma" alt="Prisma">
-  <!-- Infra/Cloud -->
-  <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonwebservices" alt="AWS">
-  <!-- AI -->
-  <img src="https://img.shields.io/badge/Claude_SDK-black?style=for-the-badge&logo=anthropic" alt="Claude SDK">
-  <!-- DevTools -->
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
-</p>
-
-### CAREER
-
----
-
-<p align="center">
-  Full-Stack Developer @ 설레스튜디오 SULEGYM (2025.11 ~ 2026.03)
-  <br/>  Frontend Developer @ 엔벨롭스 SAMS (2025.05 ~ 2026.01)
-  <br/>  Frontend Developer @ 도미네이트 (2022.11 ~ 2023.06)
-  <br/>  Frontend Developer @ KB생명보험 (2022.08 ~ 2022.11)
-  <br/>  Frontend Developer @ 핵클 (2021.07 ~ 2022.01)
-</p>
-
-### LINKS
-
----
-
-<p align="center">
-  <a href="https://github.com/Zacstop"><img src="https://img.shields.io/badge/GitHub-Zacstop-black?style=for-the-badge&logo=github" alt="GitHub Zacstop"></a>
-  <a href="https://github.com/Maka2222"><img src="https://img.shields.io/badge/GitHub-Maka2222-black?style=for-the-badge&logo=github" alt="GitHub Maka2222"></a>
-  <a href="https://sulegym.co.kr/"><img src="https://img.shields.io/badge/SULEGYM-black?style=for-the-badge" alt="SULEGYM"></a>
-  <a href="https://en-velops.com/"><img src="https://img.shields.io/badge/envelops-black?style=for-the-badge" alt="envelops"></a>
-</p>
