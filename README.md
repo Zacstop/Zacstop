@@ -1,7 +1,7 @@
-<h1 align="center"> Pragmatic Full-Stack Engineering </h1>
+<h1 align="center"> 👋 Welcome to my github </h1>
 
 <p align="center">
-  Full-Stack Developer · Frontend-leaning
+  Frontend Developer · Full-Stack-leaning
   <br/>  TypeScript · React / Next.js · React Native · Node.js
   <br/>  비즈니스 요구사항을 기술로 번역하고, 도메인 복잡도에 맞는 아키텍처로 제품을 구현합니다.
 </p>
